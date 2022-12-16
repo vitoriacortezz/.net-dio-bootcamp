@@ -1,2 +1,2 @@
-# .net-dio-bootcamp
-DIO - Bootcamp Pottencial .NET Developer
+# DIO - Bootcamp .NET 👩🏻‍💻
+Bootcamp Pottencial .NET Developer
